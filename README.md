@@ -1,0 +1,3 @@
+# Data Repository for US 2021 Movie Releases
+
+This repository provides all data and code to replicate the paper 'Early Prediction of Movie Box Office Success Based on Wikipedia Activity Big Data' by Mestyán, Yasseri & Kertész (2013). Data is provided in the 'data' directory while the code is available as Jupyter notebook. The most current version code is provided in the Jupyter notebook with the highest starting number.
